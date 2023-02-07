@@ -1,0 +1,63 @@
+/* div{
+	border:1px solid gray;
+} */
+/* .kim{
+	border:1px solid gray;
+} */
+section{
+	border:1px solid gray;
+	margin-left:30%;
+	margin-right:39%;
+}
+
+img{
+	margin-left:0px;
+}
+
+button{
+	margin:25px 20px;
+	padding:12px 25px;
+	background-color:#33cc33;
+	border:none;
+	color:white;
+}
+.one img{
+	width:100%;
+}
+.con{
+	margin-left:150px;
+}
+
+.tim{
+	margin:-10px 20px;
+	border-bottom:1px solid gray;
+}
+.sim{
+	color:gray;
+}
+.jerry{
+	border-radius:50%;
+	margin:0 -20px;
+}
+.rat{
+	display:flex;
+	margin:30px 50px;
+	padding-bottom:10px;
+} 
+.ran{
+	margin:20px 30px;
+	color:gray;
+	font-size:20px;
+	
+	
+}
+.thor{
+	display:flex;
+	margin:20px 100px;
+	
+	
+}
+.iron{
+	margin:20px -80px;
+	
+}
